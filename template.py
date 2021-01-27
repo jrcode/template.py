@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 __author__ = "Jose R. Hernandez"
-__email__ = "jr.hernandez4@gmail.com"
+__email__ = "jr4infosec@gmail.com"
 __status__ = "Development"
 
 # libraries
